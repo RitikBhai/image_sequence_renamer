@@ -1,1 +1,2 @@
-# sequence_renamer
+IMAGE SEQUENCE RENAMER
+>>Easily rename image sequences<<
