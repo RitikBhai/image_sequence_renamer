@@ -1,2 +1,2 @@
 IMAGE SEQUENCE RENAMER
->>Easily rename image sequences<<
+Easily rename image sequences
